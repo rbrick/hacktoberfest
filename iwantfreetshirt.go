@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type ListNode struct {
 	next *ListNode
 	prev *ListNode
@@ -22,4 +24,6 @@ func (l *ListNode) Prev() *ListNode {
 type LinkedList struct {
 }
 
-func main() {}
+func main() {
+	fmt.Println("GIVE ME SHIRT PLSSSSSSSSSSSSSSSSS i love you github and digitalocean. i use you daily. but i also love a free shirt. thx sorry. the waiting is the hardest part.")
+}
