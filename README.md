@@ -6,3 +6,6 @@ I am pretty sure that makes things better.
 
 When does the t-shirt get here? What is it made of? I am hoping like 60/40 cotton-polyester. 
 That is comfortable. 
+
+
+Update for 2022
